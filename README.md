@@ -1,6 +1,10 @@
 # Santander Bootcamp 2023
 
 Java RESTful API criada no Bootcamp Santander 2023.
+Todo projeto foi baseado nas aulas e repositórios:
+
+https://github.com/falvojr/santander-dev-week-2023
+https://github.com/digitalinnovationone/santander-dev-week-2023-api
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
