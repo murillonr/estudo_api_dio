@@ -6,4 +6,5 @@ spring:
   jpa:
     open-in-view: false
     hibernate:
-      ddl-auto: create
+#quando for a primeira vez o comando abaixo precisa ser "create" depois tudo bem alterar para validate porque a tabela já subiu para PROD.
+      ddl-auto: validate
